@@ -1,0 +1,3 @@
+graft pywebchat/static
+graft pywebchat/templates
+global-exclude *.pyc
